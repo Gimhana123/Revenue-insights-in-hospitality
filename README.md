@@ -2,7 +2,6 @@
 
 This repository contains a Power BI report providing insights into revenue in the hospitality industry. The report includes various visualizations and data analysis to help understand revenue trends and performance metrics.
 
-# PowerBI T20 Cricket Dashboard
 
 <div style="text-align: center;">
   <img src="https://github.com/Gimhana123/Revenue-insights-in-hospitality/blob/main/Screenshot%20(1058).png?raw=true">
