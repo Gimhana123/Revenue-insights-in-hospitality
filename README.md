@@ -5,12 +5,8 @@ This repository contains a Power BI report providing insights into revenue in th
 # PowerBI T20 Cricket Dashboard
 
 <div style="text-align: center;">
-  <img src="">
+  <img src="https://github.com/Gimhana123/Revenue-insights-in-hospitality/blob/main/Screenshot%20(1058).png?raw=true">
 </div>
-
-## Overview
-
-...
 
 
 ## Summary
